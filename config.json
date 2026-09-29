@@ -71,6 +71,19 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "SQLite Persistence with FastAPI",
+      "description": "Connect a FastAPI REST API to SQLite and implement persistent CRUD operations with validated data.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
